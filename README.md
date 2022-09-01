@@ -34,3 +34,5 @@ Though I really enjoy working with data and making sense of it.  A dream project
  I am open to all opportunities that come my way granted I'm a good fit or have interest in the project/company.  
  
  This includes internships, contract work, freelancing, part-time and full-time offers.
+ 
+ Additionally, I'm more than willing to relocate within the US or elsewhere in the world.  I'm most interested in residing in New Zealand, Australia, or a European country.  
