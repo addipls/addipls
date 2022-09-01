@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Addi (she/her 💅🏻) 👋🏻
 
-<!--
-**addipls/addipls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My main interest is in game development 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Though I really enjoy working with data and making sense of it.  A dream project for me would probably be creating an anticheat for a game, but first I'd like to make my own FPS game!  
+
+- I'm currently learning:
+  - Distributed Systems
+  - Game Development
+  - Systems Modeling
+  
+- Some skills/topics I have already learned about:
+  - Object Oriented Programming
+  - Functional Programming
+  - Networking
+  - Threading
+  - Data Structures & Algorithms
+  - Network Security/Vulnerability Assessment (Nmap, Nessus, etc.)
+  - Cyber Crime in Society
+ 
