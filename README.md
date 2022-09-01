@@ -15,7 +15,16 @@ Though I really enjoy working with data and making sense of it.  A dream project
   - Functional Programming
   - Networking
   - Threading
+  - Operating Systems Programming (Working with the linux kernel directly)
+  - Assembly Programming
   - Data Structures & Algorithms
   - Network Security/Vulnerability Assessment (Nmap, Nessus, etc.)
   - Cyber Crime in Society
- 
+
+- Programming Languages & Tools:
+  - Java with Gradle
+  - C/C++ with Cmake
+  - Python
+  - Basic HTML & CSS
+  
+ For anyone looking to collaborate, please send me a follow request on Twitter for now [here](http://twitter.com/addis0npls)
