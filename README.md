@@ -26,6 +26,8 @@ Though I really enjoy working with data and making sense of it.  A dream project
   - C/C++ with Cmake
   - Python
   - Basic HTML & CSS
+  - Git/Github
+  - Linux 
   
  For anyone looking to collaborate, please send me a follow request on Twitter for now [here](http://twitter.com/addis0npls)
  
