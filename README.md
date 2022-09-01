@@ -28,3 +28,9 @@ Though I really enjoy working with data and making sense of it.  A dream project
   - Basic HTML & CSS
   
  For anyone looking to collaborate, please send me a follow request on Twitter for now [here](http://twitter.com/addis0npls)
+ 
+ #### Opportunities
+ 
+ I am open to all opportunities that come my way granted I'm a good fit or have interest in the project/company.  
+ 
+ This includes internships, contract work, freelancing, part-time and full-time offers.
