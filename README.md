@@ -42,4 +42,4 @@ Though I really enjoy working with data and making sense of it.  A dream project
  
  This includes internships, contract work, freelancing, part-time and full-time offers.
  
- Additionally, I'm more than willing to relocate within the US or elsewhere in the world.  I'm most interested in residing in New Zealand, Australia, Netherlands, or a European country.  
+ Additionally, I'm more than willing to relocate within the US or elsewhere in the world.  I'm most interested in residing in New Zealand, Australia, Netherlands, or another European country.  
