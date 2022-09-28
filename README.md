@@ -1,4 +1,4 @@
-### Hi there, I'm Addi (she/her 💅🏻) 👋🏻
+### Hi there, I'm Addi 👋🏻
 
 
 My main interest is in game development 🎮
