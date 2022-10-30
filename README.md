@@ -9,6 +9,7 @@ Though I really enjoy working with data and making sense of it.  A dream project
   - React Native with JavaScript
   - Flutter with Dart
   - Code Security
+  - Asynchronous Programming
   
 - Some skills/topics I have already learned about:
   - Object Oriented Programming
