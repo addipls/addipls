@@ -5,11 +5,11 @@ My main interests surround security in various forms: writing secure code, game 
 - Programming Languages & Tools:
   - Java using Gradle, JDBC, JavaFX, and more
   - Embedded C targeting an Atmega328p
-  - Flutter / Dart
+  - Flutter / Dart using Firebase
   - JavaScript using React Native and Redux
   - Basic HTML & CSS
   - Git/Github
-  - Linux 
+  - Linux/Unix 
 
 - I'm currently learning:
   - Code Security
