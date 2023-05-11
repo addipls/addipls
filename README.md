@@ -1,16 +1,23 @@
 ### Hi there, I'm Addi 👋🏻
 
+My main interests surround security in various forms: writing secure code, game anticheats, and encryption for example.
 
-My main interest is in game development 🎮
-
-Though I really enjoy working with data and making sense of it.  A dream project for me would probably be creating an anticheat for a game, but first I'd like to make my own FPS game!  
+- Programming Languages & Tools:
+  - Java using Gradle, JDBC, JavaFX, and more
+  - Embedded C targeting an Atmega328p
+  - Flutter / Dart
+  - JavaScript using React Native and Redux
+  - Basic HTML & CSS
+  - Git/Github
+  - Linux 
 
 - I'm currently learning:
   - Code Security
-  - Asynchronous Programming
-  - Rust 
+  - Rust with Yew.rs (React-like framework) and Tauri
+  - C# with .NET and MAUI
   
 - Some skills/topics I have already learned about:
+  - Asynchronous programming
   - Object Oriented Programming
   - Functional Programming
   - Networking
@@ -22,17 +29,7 @@ Though I really enjoy working with data and making sense of it.  A dream project
   - Data Structures & Algorithms
   - Network Security/Vulnerability Assessment (Nmap, Nessus, etc.)
   - Cyber Crime in Society
-  - React Native with JavaScript
-  - Flutter with Dart
 
-- Programming Languages & Tools:
-  - Java with Gradle
-  - C/C++ with Cmake
-  - Python
-  - Basic HTML & CSS
-  - Git/Github
-  - Linux 
- 
  #### Outside of Coding
  
  Aside from coding, I enjoy playing video games, watching livestreams, etc.. Often I'm doing a mix of more than one of these things to keep my brain occupied 🙂 
