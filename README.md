@@ -3,7 +3,7 @@
 My main interests surround security in various forms: writing secure code, game anticheats, and encryption for example.
 
 - Programming Languages & Tools:
-  - Java using Gradle, JDBC, JavaFX, and more
+  - Java using Gradle, JDBC, JavaFX, JUnit and more
   - Embedded C targeting an Atmega328p
   - Flutter / Dart using Firebase
   - JavaScript using React Native and Redux
