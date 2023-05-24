@@ -13,7 +13,7 @@ My main interests surround security in various forms: writing secure code, game 
 
 - I'm currently learning:
   - Code Security
-  - Rust with Yew.rs (React-like framework) and Tauri
+  - C++ targeting an ESP32 module, using PlatformIO
   - C# with .NET and MAUI
   
 - Some skills/topics I have already learned about:
