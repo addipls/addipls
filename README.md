@@ -1,5 +1,7 @@
 ### Hi there, I'm Addi 👋🏻
 
+BS in Software Engineering
+
 My main interests surround security in various forms: writing secure code, game anticheats, and encryption for example.
 
 - Programming Languages & Tools:
