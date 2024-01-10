@@ -10,11 +10,11 @@ My main interests surround security in various forms: writing secure code, game 
   - Basic HTML & CSS
   - Git/Github
   - Linux/Unix 
+  - Docker
 
 - I'm currently learning:
   - Code Security
-  - C++ targeting an ESP32 module, using PlatformIO
-  - C# with .NET and MAUI
+  - TypeScript
   
 - Some skills/topics I have already learned about:
   - Asynchronous programming
@@ -29,17 +29,3 @@ My main interests surround security in various forms: writing secure code, game 
   - Data Structures & Algorithms
   - Network Security/Vulnerability Assessment (Nmap, Nessus, etc.)
   - Cyber Crime in Society
-
- #### Outside of Coding
- 
- Aside from coding, I enjoy playing video games, watching livestreams, etc.. Often I'm doing a mix of more than one of these things to keep my brain occupied 🙂 
- 
- I have varying interests, they come and go but those are the few that are pretty consistent!
- 
- #### Opportunities
- 
- I am open to all opportunities that come my way granted I'm a good fit or have interest in the project/company.  
- 
- This includes internships, contract work, freelancing, part-time and full-time offers.
- 
- Additionally, I'm more than willing to relocate within the US or elsewhere in the world.  I'm most interested in residing in New Zealand, Australia, Netherlands, or another European country.  
